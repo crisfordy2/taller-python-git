@@ -14,6 +14,6 @@ person2 = int(input('Ingrese dinero persona 2: '))
 person3 = int(input('Ingrese dinero persona 3: '))
 
 suma = person1 + person2 + person3
-print(f'El porcentaje invertido por la persona 1 es: {(person1 * 100) / suma}')
-print(f'El porcentaje invertido por la persona 2 es: {(person2 * 100) / suma}')
-print(f'El porcentaje invertido por la persona 3 es: {(person3 * 100) / suma}')
+print(f'El porcentaje invertido por la persona 1 es: {(person1 * 100) / suma}%')
+print(f'El porcentaje invertido por la persona 2 es: {(person2 * 100) / suma}%')
+print(f'El porcentaje invertido por la persona 3 es: {(person3 * 100) / suma}%')
